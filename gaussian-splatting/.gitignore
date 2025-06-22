@@ -1,0 +1,64 @@
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+
+# 数据集和输出目录
+dataset/
+output/
+output-depth/
+output-depth-old/
+tandt_db/
+
+# 大型模型文件
+Depth-Anything-V2/
+
+# 缓存和临时文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 日志文件
+*.log
+
+# 图像和视频文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# 压缩文件
+*.zip
+*.tar
+*.gz
+*.rar
+
+# 其他大文件
+*.pth
+*.ckpt
+*.pt
+*.bin
