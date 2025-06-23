@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtualenv
+venv/
+ENV/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific files
+# NeRF
+NeRF/logs/
+NeRF/data/*
+!NeRF/data/.gitkeep
+NeRF/tiny_nerf_data.npz
+NeRF/wget-log*
+
+# Plenoxel
+Plenoxel/build/
+Plenoxel/my_data/
+Plenoxel/svox2.egg-info/
+Plenoxel/opt/ckpt/
+Plenoxel/opt/renders/
+Plenoxel/opt/video/
+
+# 3DGS
+3DGS/output/
+3DGS/output-depth/
+3DGS/output-depth-old/
+3DGS/dataset/
+3DGS/tandt_db/
+3DGS/Depth-Anything-V2/weights/
+3DGS/.cache/
+3DGS/SIBR_viewers/builds/
+
+# COLMAP files
+sparse/
+images.bin
+cameras.bin
+points3D.bin
+stereo/
+
+# Common data files
+*.zip
+*.npz
+*.mp4
+*.ply
+*.obj
+*.ckpt
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.bin
+*.npy
+*.h5
+*.hdf5
+*.tar
+*.gz
+*.db
+
+# Large model weights
+weights/
+checkpoints/
+*.model
+
+# Allow example files
+!**/examples/*.png
+!**/examples/*.jpg
+!**/examples/*.mp4
+!**/imgs/*.png
+!**/imgs/*.jpg
+!assets/*.png
+!assets/*.jpg 
