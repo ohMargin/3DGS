@@ -1,0 +1,9 @@
+# ninja log v5
+2	36189	1749001944277874642	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/svox2.o	e5218302cdd9ac12
+1	69392	1749001977494533208	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/optim_kernel.o	602ff84fc3bd24d5
+2	69441	1749001977542534158	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/render_lerp_kernel_nvol.o	2b068fd883c491ad
+2	69498	1749001977598535267	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/render_lerp_kernel_cuvol.o	6329cc1f04c4b43
+1	69508	1749001977610535505	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/loss_kernel.o	ded6c53258b04e5a
+3	69657	1749001977758538436	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/svox2_kernel.o	5fcbc130283a55a
+2	71229	1749001979334569647	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/render_svox1_kernel.o	1c194736e68e232
+1	71731	1749001979834579548	/home/add_disk3/caiyunuo/svox2/build/temp.linux-x86_64-cpython-38/svox2/csrc/misc_kernel.o	67c654aeeb1ae1e0
